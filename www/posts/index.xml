@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Libra Developer Group</title>
+    <link>http://libradev.org/posts/</link>
+    <description>Recent content in Posts on Libra Developer Group</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 02 Jul 2019 11:32:25 +0800</lastBuildDate>
+    
+	<atom:link href="http://libradev.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>关于</title>
+      <link>http://libradev.org/posts/about/</link>
+      <pubDate>Tue, 02 Jul 2019 11:32:25 +0800</pubDate>
+      
+      <guid>http://libradev.org/posts/about/</guid>
+      <description>&lt;p&gt;Libra Developer Group&lt;/p&gt;
+
+&lt;p&gt;Libra开发者群组，分享Libra学习过程中的经验。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

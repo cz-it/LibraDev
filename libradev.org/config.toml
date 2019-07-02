@@ -1,0 +1,3 @@
+baseURL = "http://libradev.org/"
+title = "Libra Developer Group"
+theme = "tale-hugo"
